@@ -1,0 +1,6 @@
+version: 3
+
+tasks:
+  docker_build:
+    cmds:
+      - "podman build --compress --layers -t ghcr.io/mcst-hosting/musebot ."

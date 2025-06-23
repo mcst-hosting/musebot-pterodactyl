@@ -1,0 +1,10 @@
+# IDEs
+.vscode
+.fleet
+.idea
+
+# Build
+build
+
+# Testing
+test
